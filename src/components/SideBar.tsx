@@ -50,7 +50,6 @@ export function SideBar() {
           />
         ))}
       </div>
-
     </nav>
   )
 
